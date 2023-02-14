@@ -2,7 +2,6 @@
 var generateMarkdown = require("./utils/generateMarkdown");
 var fs = require("fs");
 var inquirer = require('inquirer');
-var writeToFile = require("./utils/writeToFile");
 
 const questions = [
     {
