@@ -16,6 +16,8 @@
 
   Run 'node index.js' in the terminal. You will then be prompted to provide information about your project, including the project title, description, installation instructions, usage information, contribution guidelines, and test instructions. Once you have provided this information, a README file will be generated and saved to the root directory of your project. 
 
+  [label](Untitled_%20Feb%2014,%202023%209_57%20PM.webm)
+
   ## License
 
   This software is released under the https://opensource.org/license/mit-0/
