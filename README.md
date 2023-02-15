@@ -16,7 +16,7 @@
 
   Run 'node index.js' in the terminal. You will then be prompted to provide information about your project, including the project title, description, installation instructions, usage information, contribution guidelines, and test instructions. Once you have provided this information, a README file will be generated and saved to the root directory of your project. 
 
-  [!Watch the video](Untitled_%20Feb%2014,%202023%209_57%20PM.webm)
+  [Untitled_ Feb 14, 2023 9_57 PM.webm](https://user-images.githubusercontent.com/118484592/218931621-0108998c-4e20-4469-85fc-8b2b7f391dfe.webm)
 
   ## License
 
